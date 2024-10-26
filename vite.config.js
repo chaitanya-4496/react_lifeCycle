@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base:"/react_lifeCycle/"
+  base:"/React_ClassWork_LifeCylce_4F/"
 })
