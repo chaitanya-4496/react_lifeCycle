@@ -1,5 +1,5 @@
 {
-  "homepage":"https://bethahemanth.github.io/react_lifeCycle/index.html",
+  "homepage": "https://bethahemanth.github.io/react_lifeCycle/index.html",
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
@@ -8,9 +8,9 @@
     "dev": "vite",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "build": "vite build",
-  "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^18.3.1",
