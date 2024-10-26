@@ -98,14 +98,14 @@ import React, { useState } from "react";
 // import React from "react";
 import UseEffectCounters from "./assets/components/Api/Counters";
 import "./App.css";
+import InputFocus from "./assets/components/ref/inputfocus";
 
 function App() {
   return (
     <div className="App">
       <h1>Counter Management App</h1>
-      <UseEffectCounters />
+      <InputFocus />
     </div>
   );
 }
-
 export default App;
